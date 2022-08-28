@@ -1,0 +1,1 @@
+# Git-Credentials-Manager-
